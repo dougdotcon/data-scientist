@@ -60,5 +60,3 @@ Sou um Cientista de Dados e Engenheiro de Dados com formação em Sistemas de In
 ### Reconhecimento e Atividades com Tecnologia 🏆
 - Fundador da ASIMOV INDUSTRIES
 - Escritor e Editor na PFP Supply Co.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dougdotcon&show_icons=true&theme=tokyonight)
