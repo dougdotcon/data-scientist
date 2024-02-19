@@ -55,9 +55,6 @@ Sou um Cientista de Dados e Engenheiro de Dados com formação em Sistemas de In
 - Metaverso e Realidade Virtual/Aumentada
 - Blockchain e tecnologias descentralizadas
 
-### Certificações Futuras 🔮
-- Lista de Certificações que tenho como objetivo de conquista em Machine Learning e Blockchain.
-
 ### Reconhecimento e Atividades com Tecnologia 🏆
 - Fundador da ASIMOV INDUSTRIES
 - Escritor e Editor na PFP Supply Co.
